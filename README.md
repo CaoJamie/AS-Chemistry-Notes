@@ -4,7 +4,7 @@ These notes are merely made on self-interest, could not account for the change i
 They are provide in the form of language that mostly suit the purpose, therefore may contains both Chinese(Simplified/English)
 
 ## Current Contents
-* A [experimental guide for practical](AS-Chemistry-Notes/Essential Guide to Fail the Chemistry Practical/The Essential Guide to Failed the Chemistry Practical.pdf)
+* A [experimental guide for practical](https://github.com/CaoJamie/AS-Chemistry-Notes/blob/dev/Essential%20Guide%20to%20Fail%20the%20Chemistry%20Practical/The%20Essential%20Guide%20to%20Failed%20the%20Chemistry%20Practical.pdf)
 * An introductive Level [Organic Notes](https://github.com/CaoJamie/AS-Chemistry-Notes/blob/dev/The%20Insufficient%20Approach%20to%20Organic%20Chemistry/v0.0.1.0%20Organic%20To%20Fail.pdf)
 * A futrue disclosure [Inorganic Notes]
 
