@@ -5,7 +5,7 @@ They are provide in the form of language that mostly suit the purpose, therefore
 
 ## Current Contents
 * A [experimental guide for practical](https://github.com/CaoJamie/AS-Chemistry-Notes/blob/dev/Essential%20Guide%20to%20Fail%20the%20Chemistry%20Practical/The%20Essential%20Guide%20to%20Failed%20the%20Chemistry%20Practical.pdf)
-* An introductive Level [Organic Notes](AS-Chemistry-Notes/The Insufficient Approach to Organic Chemistry/The Insufficient Approach to Organic Chemistry.pdf)
+* An introductive Level [Organic Notes](https://github.com/CaoJamie/AS-Chemistry-Notes/blob/dev/The%20Insufficient%20Approach%20to%20Organic%20Chemistry/The%20Insufficient%20Approach%20to%20Organic%20Chemistry.pdf)
 * A futrue disclosure [Inorganic Notes]
 
 ## Future plan
