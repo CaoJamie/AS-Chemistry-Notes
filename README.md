@@ -12,6 +12,7 @@ You can download the stable release from [here](https://github.com/CaoJamie/AS-C
 ## Future plan
 * A schedule maintainence for the practical guide
 * A potential topical focus abstract
+* Convert the notes into Latex/Markdown format for better viewing experience
 
 ## Copyright Disclaimer
 Every Reasonable Effort had been made to trace the reference material owner, but in any concern the repitories hold no responsibility for it
