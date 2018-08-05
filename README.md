@@ -12,8 +12,8 @@ You can download the stable release from [here](https://github.com/CaoJamie/AS-C
 * A futrue disclosure [Inorganic Notes](https://github.com/CaoJamie/AS-Chemistry-Notes/blob/dev/Inorganic%20that%20you%20should%20forget/The%20Inorganic%20that%20You%20Don't%20need%20to%20Know.pdf)
 
 ## Future Plan
-* A schedule maintainence for the practical guide
-* A potential topical focus abstract
+* <del>A schedule maintainence for the practical guide</del>
+* <del>A potential topical focus abstract</del>
 * Convert the notes into Latex/Markdown format for better viewing experience
 
 ## Copyright Disclaimer
